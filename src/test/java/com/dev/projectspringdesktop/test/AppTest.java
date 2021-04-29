@@ -1,4 +1,4 @@
-package com.dev.project_spring_desktop;
+package com.dev.projectspringdesktop.test;
 
 import static org.junit.Assert.assertTrue;
 
